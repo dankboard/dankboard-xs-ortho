@@ -1,0 +1,84 @@
+[
+  {
+    "name": "dankboard-xs-ortho",
+    "author": "Dankboard",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "pcb": true,
+    "plate": true
+  },
+  [
+    "esc",
+    "q",
+    "w",
+    "e",
+    "r",
+    "t",
+    "y",
+    "u",
+    "i",
+    "o",
+    "p",
+    "back"
+  ],
+  [
+    "tab",
+    "a",
+    "s",
+    "d",
+    "f",
+    "g",
+    "h",
+    "j",
+    "k",
+    "l",
+    ";",
+    "enter"
+  ],
+  [
+    "shift",
+    "z",
+    "x",
+    "c",
+    "v",
+    "b",
+    "n",
+    "m",
+    ",",
+    ".",
+    {
+      "a": 5
+    },
+    "\nup",
+    {
+      "a": 4
+    },
+    "/"
+  ],
+  [
+    "ctrl",
+    "super",
+    "alt",
+    "hyper",
+    "layer",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "space",
+    {
+      "a": 4
+    },
+    "layer",
+    "func",
+    "\n\nleft",
+    {
+      "a": 5
+    },
+    "down",
+    {
+      "a": 4
+    },
+    "right"
+  ]
+]
