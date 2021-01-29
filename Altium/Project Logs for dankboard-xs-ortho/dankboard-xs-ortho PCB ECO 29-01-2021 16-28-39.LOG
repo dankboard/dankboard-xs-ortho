@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=IC1-23
+Added Pin To Net: NetName=GND Pin=IC1-35
+Added Pin To Net: NetName=GND Pin=IC1-48
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Pin To Net: NetName=GND Pin=IC1-74
+Added Pin To Net: NetName=USB_DM Pin=IC1-72
+Added Pin To Net: NetName=USB_DM Pin=J1-A7
+Added Pin To Net: NetName=USB_DM Pin=J1-B7
+Added Net: Name=USB_DM
+Added Pin To Net: NetName=USB_DP Pin=IC1-73
+Added Pin To Net: NetName=USB_DP Pin=J1-A6
+Added Pin To Net: NetName=USB_DP Pin=J1-B6
+Added Net: Name=USB_DP
